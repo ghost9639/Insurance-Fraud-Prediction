@@ -1,0 +1,11 @@
+For this project, I studied the Mendeley Data insurance claims dataset at (https://data.mendeley.com/datasets/992mh7dk9y/2). This is a highly robust and near complete dataset compiling detailed insurance claims across multiple insurance companies and industries, and includes the outcomes of case by case fraud. Exploratory data analysis was used to find key statistical identifiers of fraud.
+
+I used generalised linear modelling (specifically logit) in statsmodels and gradient boosting with xxgboost to predict fraud. This process required careful data cleaning, model fitting, and delicate analysis of the most significant risk factors.
+
+Skills demonstrated:
+ - Predictive modelling and statistical inference (in logit and gradient boosting models),
+ - Data cleaning and exploration for claims datasets,
+ - Effective interpretation of statistical models for fraud detection,
+ - Use of statistical Python libraries for analysis.
+
+I have written a report compiling the decisions and research performed in this project in a pdf called "InsuranceFraud.pdf". It provides a more robust explanation of the steps taken and insights gained from the project, and "InsuranceFraud.py" itself contains various comments explaining what I was thinking at any given time.
