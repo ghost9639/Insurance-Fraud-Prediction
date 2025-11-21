@@ -1,6 +1,6 @@
 For this project, I studied the [Mendeley Data insurance claims dataset](https://data.mendeley.com/datasets/992mh7dk9y/2). This is a highly robust and near complete dataset compiling detailed insurance claims across multiple insurance companies and industries, and includes the outcomes of case by case fraud. Exploratory data analysis was used to find key statistical identifiers of fraud.
 
-For a report breaking down the process of this investigation, see [Insurance Fraud Report](InsuranceFraud.pdf)
+For a report breaking down the process of this investigation, see the [Insurance Fraud Report](InsuranceFraud.pdf).
 
 I used generalised linear modelling (specifically logit) in statsmodels and gradient boosting with XGBoost to predict fraud. This process required careful data cleaning, model fitting, and delicate analysis of the most significant risk factors.
 
